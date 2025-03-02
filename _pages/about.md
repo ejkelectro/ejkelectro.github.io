@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I'm En-Jui Kuo (郭恩瑞), an Assistant Professor working at the intersection of quantum computing, machine learning, and theoretical physics. My research focuses on open quantum systems, quantum complexity theory, machine learning, mathematical Physics for materials science and optimization problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my Ph.D. from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS). 
+<!-- My academic journey has led me to collaborate with leading researchers, including **Mohammad Hafezi (University of Maryland), Han Liu (Northwestern University), and Sharon Glotzer (University of Michigan)**. I also work with **Shil-Han Hung (National Taiwan University)** on quantum computing theory.
+
+Beyond academia, I engage in industry collaborations, particularly with **Hon Hai Quantum Research Institute**, where I work on **quantum error correction for NISQ devices and integrating quantum computing with semiconductor technologies**. -->
