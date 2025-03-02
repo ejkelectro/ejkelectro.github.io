@@ -31,6 +31,4 @@ latest_posts:
 Hi, I'm En-Jui Kuo (郭恩瑞), an Assistant Professor working at the intersection of quantum computing, machine learning, and theoretical physics. My research focuses on open quantum systems, quantum complexity theory, machine learning, mathematical Physics for materials science and optimization problems.
 
 I earned my Ph.D. from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS). 
-<!-- My academic journey has led me to collaborate with leading researchers, including **Mohammad Hafezi (University of Maryland), Han Liu (Northwestern University), and Sharon Glotzer (University of Michigan)**. I also work with **Shil-Han Hung (National Taiwan University)** on quantum computing theory.
 
-Beyond academia, I engage in industry collaborations, particularly with **Hon Hai Quantum Research Institute**, where I work on **quantum error correction for NISQ devices and integrating quantum computing with semiconductor technologies**. -->
