@@ -429,16 +429,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-quantum-state-tomography-via-nonconvex-riemannian-gradient-descent",
+          title: 'Quantum state tomography via nonconvex riemannian gradient descent',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-energy-diffusion-in-weakly-interacting-chains-with-fermionic-dissipation-assisted-operator-evolution",
+          title: 'Energy diffusion in weakly interacting chains with fermionic dissipation assisted operator evolution',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-computational-limits-of-low-rank-adaptation-lora-for-transformer-based-models",
+          title: 'Computational Limits of Low-Rank Adaptation (LoRA) for Transformer-Based Models',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
