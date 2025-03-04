@@ -52,14 +52,13 @@ We welcome members with interests in the following areas:
 
 ---
 
-## **Compensation**  
+<!-- ## **Compensation**  
 
 - **Part-time members:** Pay is based on workload.  
 - **Full-time members:** Compensation follows the **MOST (Ministry of Science and Technology) guidelines** for research project assistants.  
 
-For inquiries, feel free to **reach out and apply**.  
+For inquiries, feel free to **reach out and apply**.   -->
 
----
 
 # **我們正在招募**  
 
