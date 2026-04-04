@@ -115,6 +115,9 @@ For inquiries, feel free to **reach out and apply**.   -->
 如果你對這些研究方向有興趣，歡迎聯繫我們並加入團隊！   -->
 
 
+
+
+
 ## 給專題生
 
 老師會提供一個研究方向（例如 Machine Learning、數學物理、量子資訊等），並附上 1–2 篇相關文章。部分內容可能偏理論；若有數值實驗，需自行嘗試重現。
@@ -158,3 +161,30 @@ For inquiries, feel free to **reach out and apply**.   -->
 15. 原則上兩年畢業，建議第一年完成所有修課，並於第二年上學期開始撰寫論文  
 
 
+
+## 一個問題：你為什麼要讀研究所，請看完再來找我討論
+
+- 【職場大人物 / 60秒 Cheers】葉丙成：想唸研究所，先過關 3 個問題再決定！  
+  https://www.youtube.com/watch?v=UL5iAy65RZM
+
+- 淺談理工科學研究的天龍八部｜科學表達工作坊，陳良基老師  
+  https://www.youtube.com/watch?v=vjjR0EdiKD0
+
+- 給研究所新鮮人：進入研究所的學前心態｜2021 研究生新訓講堂  
+  https://www.youtube.com/watch?v=K8PWsEVGvZA&t=446s&pp=ygUT6Y2-5a2d5paHIOeglOeptuaJgA%3D%3D
+
+
+## 如果你要讀博士
+
+我沒有開玩笑。
+
+請認真看這些文章）：
+
+- 給進退兩難的博士生  （彭明輝老師
+  https://mhperng.blogspot.com/2011/09/blog-post_18.html
+
+- 困境與抉擇  （彭明輝老師
+  https://mhperng.blogspot.com/2011/03/blog-post_3186.html
+
+- 讀理論物理博士期間的經驗和教訓  
+  https://www.ptt.cc/bbs/Physics/M.1550466338.A.48C.html
