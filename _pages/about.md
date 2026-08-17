@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>科學三館SC 446</p>
+    <p>科學三館 SC 462</p>
     <p>Hsinchu</p>
     <p></p>
 
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 Hi, I'm En-Jui Kuo (郭恩瑞), an Assistant Professor working at the intersection of quantum computing, machine learning, and theoretical physics. My research focuses on open quantum systems, quantum complexity theory, machine learning, mathematical Physics for materials science and optimization problems.
 
-I earned my Ph.D. from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS). 
-
+I earned my Ph.D. from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS).
