@@ -30,3 +30,18 @@ latest_posts:
 Hi, I'm En-Jui Kuo (郭恩瑞), an Assistant Professor working at the intersection of quantum computing, machine learning, and theoretical physics. My research focuses on open quantum systems, quantum complexity theory, machine learning, mathematical Physics for materials science and optimization problems.
 
 I earned my Ph.D. from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS).
+
+<div class="card border-danger mt-4 mb-4">
+  <div class="card-body">
+    <h3 class="card-title"><i class="fa-brands fa-youtube text-danger"></i> Math Geeks YouTube 頻道</h3>
+    <p class="card-text">歡迎訂閱我的 YouTube 頻道，觀看數學、理論物理、量子運算與相關主題的教學影片及播放清單。</p>
+    <a
+      class="btn btn-danger"
+      href="https://www.youtube.com/@mathgeeks3598/playlists"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <i class="fa-brands fa-youtube"></i> 前往播放清單
+    </a>
+  </div>
+</div>
