@@ -147,7 +147,14 @@ For inquiries, feel free to **reach out and apply**.   -->
 
 碩士生的要求與專題生類似，但需考量畢業時程。老師會依據你的興趣提供研究方向，例如 Machine Learning 理論、數學物理、量子資訊計算理論等。若想做硬體（如 FPGA），也可以，但需自行學習相關技術。
 
-<div style="color: #dc3545;" markdown="1">
+<style>
+  .master-application-requirements,
+  .master-application-requirements * {
+    color: #dc3545 !important;
+  }
+</style>
+
+<div class="master-application-requirements" markdown="1">
 
 ### **申請基本門檻**
 
