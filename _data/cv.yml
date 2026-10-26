@@ -23,11 +23,25 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. in Physics
       institution: University of Maryland, College Park
+      year: 2018–2023
       description:
+        - "Advisor: Mohammad Hafezi."
         - Affiliated with the Joint Quantum Institute (JQI).
         - Affiliated with the Joint Center for Quantum Information and Computer Science (QuICS).
+    - title: M.Sc. in Physics
+      institution: National Taiwan University
+      year: 2016–2017
+      description:
+        - "Advisor: Heng-Yu Chen."
+        - Research in AdS/CFT and string theory.
+    - title: B.Sc. in Electrophysics
+      institution: National Chiao Tung University
+      year: 2012–2016
+      description:
+        - "Undergraduate project advisor: Yi Yang."
+        - Research on black holes and high-energy physics.
 
 - title: Academic Appointment
   type: time_table

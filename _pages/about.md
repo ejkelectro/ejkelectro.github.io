@@ -29,7 +29,9 @@ latest_posts:
 
 Hi, I'm En-Jui Kuo (郭恩瑞), an Assistant Professor working at the intersection of quantum computing, machine learning, and theoretical physics. My research focuses on open quantum systems, quantum complexity theory, machine learning, mathematical Physics for materials science and optimization problems.
 
-I earned my Ph.D. from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS).
+I received my B.Sc. in Electrophysics from National Chiao Tung University, my M.Sc. in Physics from National Taiwan University, and my Ph.D. in Physics from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS).
+
+I am deeply grateful to the mentors who shaped my academic path: **Yi Yang**, who guided my undergraduate project on black-hole physics; **Heng-Yu Chen**, who advised my master's research on AdS/CFT; and **Mohammad Hafezi**, my Ph.D. advisor. Their guidance and support have had a lasting influence on my research.
 
 <div class="card border-danger mt-4 mb-4">
   <div class="card-body">
