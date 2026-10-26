@@ -33,6 +33,8 @@ I received my B.Sc. in Electrophysics from National Chiao Tung University, my M.
 
 I am deeply grateful to the mentors who shaped my academic path: [**Yi Yang**](https://spst.shanghaitech.edu.cn/2025/0113/c2349a1111988/page.htm), who guided my undergraduate project on black-hole physics; [**Heng-Yu Chen**](https://phys.ntu.edu.tw/heng.yu.chen.html), who advised my master's research on AdS/CFT; and [**Mohammad Hafezi**](https://umdphysics.umd.edu/directory/faculty/current/hafezi.html), my Ph.D. advisor. Their guidance and support have had a lasting influence on my research.
 
+<!-- Advisor profile links verified October 2026. -->
+
 <div class="card border-danger mt-4 mb-4">
   <div class="card-body">
     <h3 class="card-title"><i class="fa-brands fa-youtube text-danger"></i> Math Geeks YouTube 頻道</h3>
