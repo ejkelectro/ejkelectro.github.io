@@ -28,20 +28,20 @@
       institution: University of Maryland, College Park
       year: 2018–2023
       description:
-        - "Advisor: Mohammad Hafezi."
+        - 'Advisor: <a href="https://umdphysics.umd.edu/directory/faculty/current/hafezi.html" target="_blank" rel="noopener noreferrer">Mohammad Hafezi</a>.'
         - Affiliated with the Joint Quantum Institute (JQI).
         - Affiliated with the Joint Center for Quantum Information and Computer Science (QuICS).
     - title: M.Sc. in Physics
       institution: National Taiwan University
       year: 2016–2017
       description:
-        - "Advisor: Heng-Yu Chen."
+        - 'Advisor: <a href="https://phys.ntu.edu.tw/heng.yu.chen.html" target="_blank" rel="noopener noreferrer">Heng-Yu Chen</a>.'
         - Research in AdS/CFT and string theory.
     - title: B.Sc. in Electrophysics
       institution: National Chiao Tung University
       year: 2012–2016
       description:
-        - "Undergraduate project advisor: Yi Yang."
+        - 'Undergraduate project advisor: <a href="https://spst.shanghaitech.edu.cn/2025/0113/c2349a1111988/page.htm" target="_blank" rel="noopener noreferrer">Yi Yang</a>.'
         - Research on black holes and high-energy physics.
 
 - title: Academic Appointment

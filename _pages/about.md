@@ -31,7 +31,7 @@ Hi, I'm En-Jui Kuo (郭恩瑞), an Assistant Professor working at the intersecti
 
 I received my B.Sc. in Electrophysics from National Chiao Tung University, my M.Sc. in Physics from National Taiwan University, and my Ph.D. in Physics from the University of Maryland, where I was affiliated with the Joint Quantum Institute (JQI) and the Joint Center for Quantum Information and Computer Science (QuICS).
 
-I am deeply grateful to the mentors who shaped my academic path: **Yi Yang**, who guided my undergraduate project on black-hole physics; **Heng-Yu Chen**, who advised my master's research on AdS/CFT; and **Mohammad Hafezi**, my Ph.D. advisor. Their guidance and support have had a lasting influence on my research.
+I am deeply grateful to the mentors who shaped my academic path: [**Yi Yang**](https://spst.shanghaitech.edu.cn/2025/0113/c2349a1111988/page.htm), who guided my undergraduate project on black-hole physics; [**Heng-Yu Chen**](https://phys.ntu.edu.tw/heng.yu.chen.html), who advised my master's research on AdS/CFT; and [**Mohammad Hafezi**](https://umdphysics.umd.edu/directory/faculty/current/hafezi.html), my Ph.D. advisor. Their guidance and support have had a lasting influence on my research.
 
 <div class="card border-danger mt-4 mb-4">
   <div class="card-body">
